@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Tobias Maksymowicz 👋</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática | Backend Developer en formación</h3>
+<h3 align="center">Estudiante de Ingeniería en Informática | Fullstack Developer en formación</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica+%40+UNAJ;Backend+Developer+en+formaci%C3%B3n;C%23+%7C+.NET+%7C+Clean+Architecture;Aprendiendo+Node.js+y+Postman" alt="Typing SVG" />
@@ -68,11 +68,6 @@ Actualmente estudiante de **Ingeniería en Informática** en la Universidad Naci
 ---
 
 ### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tobimak&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobimak&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tobimak&theme=radical&hide_border=true" alt="streak stats" />
