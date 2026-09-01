@@ -77,7 +77,7 @@ Actualmente estudiante de **Ingeniería en Informática** en la Universidad Naci
 
 ### 📫 Contacto
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](email:brunomak422@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomak422@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobimak)
 [![linkedin](https://img.shields.io/badge/linkedin-000080?style=for-the-badge&logo=linkedin&logoColor=Blue)](https://www.linkedin.com/in/tobias-maksymowicz-986b88291/)
 
