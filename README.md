@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingeniería en Informática | Fullstack Developer en formación</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica+%40+UNAJ;Fullstack+Developer+en+formaci%C3%B3n;C%23+%7C+.NET+%7C+Clean+Architecture;Aprendiendo+Node.js+y+Postman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Estudiante+de+Ing.+en+Inform%C3%A1tica+%40+UNAJ;Fullstack+Developer+en+formaci%C3%B3n;C%23+%7C+.NET+%7C+Clean+Architecture" alt="Typing SVG" />
 </p>
 
 ---
